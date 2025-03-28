@@ -1,0 +1,23 @@
+.pizza {
+  place-items: center;
+
+  background-color: rgb(245, 243, 241);
+  width: 200px;
+
+  height: 25px;
+  border-radius: 100px;
+  box-shadow: 1px 2px 2px rgb(158, 158, 158);
+}
+
+.pizza button {
+  height: 20px;
+  width: 50px;
+  margin-left: 180px;
+border-radius: 100px;
+border: 0cap;
+box-shadow: 1px 2px 2px rgb(158, 158, 158);
+}
+input{
+  box-shadow: 1px 2px 2px rgb(158, 158, 158);
+  border-radius: 70px;
+}
