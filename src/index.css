@@ -1,3 +1,7 @@
+body{
+  background: violet;
+  color: aliceblue;
+}
 .pizza {
   place-items: center;
 
